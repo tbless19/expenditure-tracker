@@ -48,3 +48,12 @@ Category-based budgeting insights
 Exportable and secure local financial records
 
 Increased user control and reduced errors in personal finance tracking
+
+
+Screenshots
+![Expense tracker GUI](https://github.com/user-attachments/assets/11d16bc6-9b35-46b5-926f-7de0e44c3525)
+
+![Expense Monthly Trends](https://github.com/user-attachments/assets/7c37c2f1-0cfd-4294-baba-b6381c4811f0)
+
+![Expense Categories](https://github.com/user-attachments/assets/67cc5570-13eb-4741-ae6b-d7f70cca5027)
+
