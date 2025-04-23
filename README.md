@@ -58,4 +58,9 @@ Increased user control and reduced errors in personal finance tracking
 ![Expense Categories](https://github.com/user-attachments/assets/67cc5570-13eb-4741-ae6b-d7f70cca5027)
 
 ## Demo
-![ExpenseTrackerDemo](https://github.com/user-attachments/assets/7531bb8b-45a7-4382-8441-02cb5c3ec4df)
+
+
+https://github.com/user-attachments/assets/64f770e3-1cb0-4b58-a3d8-435f48e59ec1
+
+
+
